@@ -1,0 +1,22 @@
+docs/
+├── introduction.mdx
+├── foundations/
+│   ├── mindset.mdx
+│   └── education.mdx
+├── trading-system/
+│   ├── sec-filings.mdx
+│   ├── strategy-development.mdx
+│   └── risk-management.mdx
+├── advanced-concepts/
+│   ├── execution.mdx
+│   └── advanced-strategy.mdx
+├── market-specific/
+│   ├── forex.mdx
+│   ├── commodities.mdx
+│   └── crypto.mdx
+├── psychology/
+│   ├── emotional-discipline.mdx
+│   └── lifestyle.mdx
+└── wealth-management/
+    ├── long-term-planning.mdx
+    └── exit-strategies.mdx 
