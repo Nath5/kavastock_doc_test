@@ -1,1 +1,2 @@
-# kavastock_doc_test
+# Repository for the trading document.
+# Test commit.
